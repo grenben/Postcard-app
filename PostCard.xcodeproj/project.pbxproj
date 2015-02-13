@@ -13,6 +13,8 @@
 		04E151301A8BAA8B00BA65A6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04E1512F1A8BAA8B00BA65A6 /* Images.xcassets */; };
 		04E151331A8BAA8B00BA65A6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04E151311A8BAA8B00BA65A6 /* LaunchScreen.xib */; };
 		04E1513F1A8BAA8B00BA65A6 /* PostCardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E1513E1A8BAA8B00BA65A6 /* PostCardTests.swift */; };
+		04E151491A8BB68400BA65A6 /* 281337_10150737346555137_2140463_n.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04E151481A8BB68400BA65A6 /* 281337_10150737346555137_2140463_n.jpg */; };
+		04E1514B1A8D754D00BA65A6 /* 347_32866027086_2109_n.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04E1514A1A8D754D00BA65A6 /* 347_32866027086_2109_n.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		04E151381A8BAA8B00BA65A6 /* PostCardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostCardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04E1513D1A8BAA8B00BA65A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04E1513E1A8BAA8B00BA65A6 /* PostCardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCardTests.swift; sourceTree = "<group>"; };
+		04E151481A8BB68400BA65A6 /* 281337_10150737346555137_2140463_n.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 281337_10150737346555137_2140463_n.jpg; sourceTree = "<group>"; };
+		04E1514A1A8D754D00BA65A6 /* 347_32866027086_2109_n.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 347_32866027086_2109_n.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		04E151261A8BAA8B00BA65A6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				04E1514A1A8D754D00BA65A6 /* 347_32866027086_2109_n.jpg */,
+				04E151481A8BB68400BA65A6 /* 281337_10150737346555137_2140463_n.jpg */,
 				04E151271A8BAA8B00BA65A6 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,7 +200,9 @@
 			files = (
 				04E1512E1A8BAA8B00BA65A6 /* Main.storyboard in Resources */,
 				04E151331A8BAA8B00BA65A6 /* LaunchScreen.xib in Resources */,
+				04E1514B1A8D754D00BA65A6 /* 347_32866027086_2109_n.jpg in Resources */,
 				04E151301A8BAA8B00BA65A6 /* Images.xcassets in Resources */,
+				04E151491A8BB68400BA65A6 /* 281337_10150737346555137_2140463_n.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
